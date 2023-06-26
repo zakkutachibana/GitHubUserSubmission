@@ -1,5 +1,6 @@
 package com.zak.githubuser.data.remote.retrofit
 
+import com.zak.githubuser.BuildConfig
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
@@ -10,8 +11,9 @@ class ApiConfig {
         fun getApiService(): ApiService {
             val authInterceptor = Interceptor { chain ->
                 val req = chain.request()
+                val token = BuildConfig.KEY
                 val requestHeaders = req.newBuilder()
-                    .addHeader("Authorization", "token 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")
+                    .addHeader("Authorization", token)
                     .build()
                 chain.proceed(requestHeaders)
             }
