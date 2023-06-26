@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="user_username">username</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Pencarian User</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque lobortis erat eget placerat. Duis posuere arcu ac ipsum vestibulum volutpat. Nulla faucibus nisl ut turpis scelerisque, id bibendum risus feugiat. Integer facilisis rhoncus posuere. Mauris quis ligula nec orci pretium ornare sed a magna. Aenean ornare, urna a euismod lacinia, orci diam mollis felis, eu volutpat mauris erat ac nunc. Etiam suscipit, elit eget viverra semper, purus enim molestie sem, ac suscipit neque diam sit amet velit.
+        Aliquam aliquet ultrices vehicula. Nam id consequat arcu. Quisque sit amet molestie ante. Fusce tempus at ipsum vel laoreet. Fusce imperdiet nulla in quam bibendum, quis finibus quam accumsan. Donec rhoncus quis dui non maximus. Etiam ullamcorper leo non justo dictum dignissim a sit amet nulla. Praesent sed metus sit amet magna tempor vehicula vel eget tortor. Vestibulum vitae tellus diam. Pellentesque at facilisis elit. Nulla sit amet bibendum orci. Vestibulum aliquam, metus molestie fringilla lobortis, mi lorem pretium leo, ac pretium ipsum ante nec urna. Fusce sit amet turpis id est tempus varius. Mauris sed lacus nec tortor fermentum consectetur sed ut lectus. Morbi auctor, ipsum ut vestibulum suscipit, ligula tortor iaculis purus, vitae aliquet ipsum magna sit amet risus.
+        Proin ex leo, tristique a scelerisque congue, bibendum et diam. Quisque quis consequat ipsum. Sed a fringilla dolor. Curabitur erat quam, fringilla eu dapibus id, viverra id magna. Integer risus mi, pretium eget laoreet et, condimentum ac leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque enim est, imperdiet sit amet vehicula a, iaculis nec mi. Sed quis neque at urna pretium blandit id nec arcu. Maecenas at quam viverra, condimentum enim ac, aliquam erat. Nulla rhoncus in purus sit amet tristique. Vestibulum tincidunt libero tortor, vitae vestibulum lectus sagittis sit amet. Nulla auctor fringilla convallis. Fusce rhoncus laoreet lacus in vestibulum.
+        Morbi tempor porttitor risus, non blandit nulla suscipit sed. Cras vel lectus vitae sapien tempor rutrum eu vitae ligula. Sed a luctus erat. Pellentesque vel augue non tellus imperdiet sodales scelerisque ut odio. Curabitur ac mauris ipsum. In hac habitasse platea dictumst. Praesent in nulla massa. Sed urna dui, laoreet vel dictum semper, laoreet vitae enim. In porta libero vel neque suscipit accumsan. Duis hendrerit diam quis placerat dignissim.</string>
+    <string name="user_display_name">display name</string>
+    <string name="null_name">Display name is not set</string>
+    <string name="following_count">%1$d Following</string>
+    <string name="follower_count">%1$d Followers</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
